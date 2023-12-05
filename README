@@ -19,7 +19,7 @@ WARNING:
    This program has been disabled because it was probably easy for spammers 
    to use as an open relay. It also had problems with enabling malicious 
    use of JavaScript and CRLF Injection.  The 'mail' utility is a historic 
-   reclic and will not be supplied in future versions.  Its functionality 
+   reclic and will not besupplied in future versions.  Its functionality 
    has been replaced with a warning that anyone using it should remove it 
    immediately.  
 
