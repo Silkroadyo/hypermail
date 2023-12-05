@@ -40,4 +40,4 @@ int mcode(cgi_info *ci)
 	return MCODE_HEAD;
     else
 	return 0;
-}
+}. 
